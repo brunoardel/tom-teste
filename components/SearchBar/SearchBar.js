@@ -20,7 +20,7 @@ export default class Search extends Component {
         }
 
         query={{
-          key: 'AIzaSyBldFD8vvyjE9RJbJxeb3AosYujZHCzzHk',
+          key: '',
           language: 'en'
         }}
 
